@@ -1,4 +1,11 @@
 ## Development of Multifragment Rendering Methods for 3D Graphics
+<p align="center">
+
+<p align="center">
+  <img width="830" height="780" src="/Screenshots/image.png">
+</p>
+
+
 ### Diploma Thesis
 #### Grigorios Tsopouridis
 #### Supervisor: Prof. Ioannis Fudos

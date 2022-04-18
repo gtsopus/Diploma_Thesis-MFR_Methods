@@ -36,5 +36,12 @@ Finally, a comparison between the results of the proposed method and those of ot
 A shader source code bundle for solving the visibility determination problem in screen space is provided. This collection includes the implemented multifragment rendering methods: the A-Buffer, k-Buffer, Variable k-Buffer, S-Buffer and the neural network model files.
 
 
+| Method  | Implementation 1 | Implementation 2 |
+| ------------- | ------------- | ------------- |
+| A-Buffer  | [AB Linked List](/Assets/Shaders/A-Buffer/LinkedList)  | [AB Fixed Array](/Assets/Shaders/A-Buffer/FixedArray)|
+| k-Buffer  | [KB - Pixel Synchronized](/Assets/Shaders/k-Buffer%20Pixel%20Synchro)   |X|
+| Variable k-Buffer  | [VKB](/Assets/Shaders/k-Buffer%20Variable)   |X|
+| S-Buffer  | [SB](/Assets/Shaders/S-Buffer)   |X|
+
 ## References:
 All appropriate references included in .pdf file.

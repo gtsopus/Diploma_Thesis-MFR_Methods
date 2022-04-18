@@ -11,8 +11,7 @@
 #### Supervisor: Prof. Ioannis Fudos
 #### Dept. of Computer Science and Engineering, University of Ioannina
 
-This repository contains a copy of my diploma thesis as well as some accompanying code and shaders that were used during the creation of this work.
-The thesis was completed as a requirement for graduating from the Dept. of Computer Science and Engineering, University of Ioannina 5 year integrated master program.
+This repository contains a copy of my diploma thesis as well as some accompanying code and shaders that were used during its creation. The thesis was completed as a requirement for graduating from the Dept. of Computer Science and Engineering, University of Ioannina 5 year integrated master program.
 
 \
 I would also like to thank Dr. Andreas-Alexandros Vasilakis for his support throughout this thesis.

@@ -33,7 +33,7 @@ Deep Learning Variable k-Buffer attempts to approximate the quality of the memor
 Finally, a comparison between the results of the proposed method and those of other already established multifragment rendering methods is provided, to evaluate and present their rendering quality and performance.
 
 ## Source Code
-A shader source code bundle for efficiently solving the visibility determination problem in screen space is provided. This extensive collection includes the implemented multifragment rendering methods the A-Buffer, k-Buffer, Variable k-Buffer, S-Buffer and the neural network model files.
+A shader source code bundle for solving the visibility determination problem in screen space is provided. This collection includes the implemented multifragment rendering methods: the A-Buffer, k-Buffer, Variable k-Buffer, S-Buffer and the neural network model files.
 
 
 ## References:
